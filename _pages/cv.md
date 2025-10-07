@@ -24,14 +24,14 @@ Work experience
   
 Skills
 ======
-* In vivo imaging
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Mouse genetic model
-* Cell specific RNA progiling
+* Two-photon laser scanning microscopy
+  * In vivo and in brain slices
+  * In cortex and deep brain regions, including striatum
+  * Calcium imaging and fluorescent protein imaging
+* Sophisticated mouse genetic models
+* Cell-specific RNA profiling
 * Extracellular proteomics
+
 
 Honors
 ======
