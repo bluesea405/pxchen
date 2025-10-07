@@ -23,7 +23,7 @@ repository               : "https://bluesea405.github.io/pxchen"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile.png"
   name             : "Pengxiang Chen"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Gial Biology"
