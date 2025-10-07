@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Pathology and Pathophysiology, Zhejiang University, 2022
+  * Supervisor: Chong Liu
 * B.S. in Biotechnology, Zhejiang University, 2017
 
 Work experience
 ======
-* Dec 2022: Postdoc Scholar
-  * UCLA
-  * Duties includes: Updates and improvements to template
+* Dec 2022 to present: Postdoctoral Scholar
+  * University of California Los Angeles
   * Supervisor: Baljit Khakh
 
   
@@ -32,5 +32,13 @@ Skills
 * Mouse genetic model
 * Cell specific RNA progiling
 * Extracellular proteomics
+
+Honors
+======
+* 2022 Outstanding Graduates of Zhejiang Province (Top 5%)
+* 2021 National Scholarship
+* 2021 Award of Honor for Graduate
+* 2020 Top Ten Prize for Postgraduate of Poster Day, Zhejiang University School of Basic Medical Sciences
+
 
 
