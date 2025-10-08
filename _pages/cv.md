@@ -24,13 +24,15 @@ Work experience
   
 Skills
 ======
-* Two-photon laser scanning microscopy
-  * In vivo and in brain slices
-  * In cortex and deep brain regions, including striatum
+* Two-photon laser scanning microscopy (2PLSM)
+  * In vivo imaging in head-fixed mice & brain slices imaging
+  * Target brain regions: cortex and deep structures (e.g., striatum)
   * Calcium imaging and fluorescent protein imaging
 * Sophisticated mouse genetic models
-* Cell-specific RNA profiling
 * Extracellular proteomics
+* Cell-specific RNA profiling
+* Cloning
+* Mouse behavior
 
 
 Honors
