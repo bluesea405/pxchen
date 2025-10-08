@@ -17,10 +17,8 @@ Education
 
 Work experience
 ======
-* Dec 2022 to present: Postdoctoral Scholar
-  * University of California Los Angeles
+* Postdoctoral Scholar, University of California Los Angeles,  Dec 2022 to present
   * Supervisor: Baljit Khakh
-
   
 Skills
 ======
