@@ -31,7 +31,7 @@ Skills
 * Design and maintenance of complex transgenic lines (up to 9 alleles per model) and large-scale colonies (>100 matings)
 * Stereotaxic surgeries including viral delivery (local and retro-orbital), intracranial tumor implantation
 * Chemogenetics using DREADDs (hM3Dq/hM4Di)
-* Behavioral Assays
+* Behavioral assays
 
 Molecular & Cellular Biology
 * Cloning and vector construction, ***cell-specific and whole tissue RNA profiling***, ***extracellular proteomics***
