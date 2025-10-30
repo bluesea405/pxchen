@@ -15,11 +15,15 @@ Education
   * Supervisor: Chong Liu
 * B.S. in Biotechnology, Zhejiang University, 2017
 
+---
+
 Work experience
 ======
 * Postdoctoral Scholar, University of California Los Angeles,  Dec 2022 to present
   * Supervisor: Baljit Khakh
-  
+
+---
+
 Skills
 ======
 ***In Vivo & Ex Vivo Imaging***
@@ -41,7 +45,7 @@ Data Processing & Computational Analysis
 * Image analysis through ImageJ, suite2P, GECIquant, AQuA2, MATLAB and custom code
 * Integrating functional calcium imaging data alongside simultaneously recorded behavioral data
 
-
+---
 
 Honors
 ======
