@@ -38,7 +38,7 @@ Skills
 4)	Data Processing & Computational Analysis
 •	Image analysis through ImageJ, suite2P, GECIquant, AQuA2, MATLAB and custom code
 •	Integrating functional calcium imaging data alongside simultaneously recorded behavioral data
-•	3D reconstruction using Neurolucida®
+
 
 
 Honors
