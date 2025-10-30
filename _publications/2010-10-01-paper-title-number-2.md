@@ -3,7 +3,7 @@ title: "Olfactory sensory experience regulates gliomagenesis via neuronal IGF1"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2022-6-16
 venue: 'Nature'
 slidesurl: 'https://doi.org/10.1038/s41586-022-04719-9'
