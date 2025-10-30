@@ -26,7 +26,6 @@ Skills
 * Chronic cranial window preparation for cortex and deep brain regions (e.g. striatum)
 * Two-photon laser scanning microscopy (2PLSM) in awake, behaving mice and acute brain slices
 * Functional calcium and fluorescent protein imaging
-* Confocal microscopy of fixed tissue and cultured cells
 
 ***Mouse Genetics & In Vivo Manipulations***
 * Design and maintenance of complex transgenic lines (up to 9 alleles per model) and large-scale colonies (>100 matings)
@@ -35,7 +34,7 @@ Skills
 * Behavioral Assays (Y-maze, open field, rotarod, grooming, elevated plus maze, buried food test)
 
 Molecular & Cellular Biology
-* Cloning and vector construction, RNA extraction, RT-qPCR, ***cell-specific and whole tissue RNA profiling***, Western blot, ELISA, ***extracellular proteomics***, histology
+* Cloning and vector construction, ***cell-specific and whole tissue RNA profiling***, ***extracellular proteomics***
 * Cell culture: primary neuron, glioma cells, neuron-glioma co-culture
 
 Data Processing & Computational Analysis
