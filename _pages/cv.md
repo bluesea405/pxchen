@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Email: pengxiangchen@mednet.ucla.edu
+
 Education
 ======
 * Ph.D in Pathology and Pathophysiology, Zhejiang University, 2022
