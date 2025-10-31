@@ -1,3 +1,15 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
 {% include analytics.html %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const btn = document.querySelector('.author_urls-wrapper button');
+  const list = document.querySelector('.author_urls');
+  if (btn && list) {
+    btn.addEventListener('click', function() {
+      list.classList.toggle('visible');
+    });
+  }
+});
+</script>
