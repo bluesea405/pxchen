@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-The word “glia” comes from the Greek for “glue,” reflecting their traditional role as the brain’s support cells. However, neuron–glia interactions are now recognized as essential for maintaining neural circuit function and overall brain health. My research seeks to understand ***how bidirectional communication between neurons and glial cells—particularly astrocytes and oligodendrocyte lineage cells—shapes both physiological and pathological brain states***.
+The word “glia” comes from the Greek for “glue”, reflecting their traditional role as the brain’s support cells. However, neuron–glia interactions are now recognized as essential for maintaining neural circuit function and overall brain health. My research seeks to understand ***how bidirectional communication between neurons and glial cells—particularly astrocytes and oligodendrocyte lineage cells—shapes both physiological and pathological brain states***.
 
 During my Ph.D. under Prof. Chong Liu at Zhejiang University, I focused on interactions between neurons and oligodendrocyte lineage cells. I discovered that neuronal activity can drive the progression of oligodendrocyte lineage cell-derived high-grade glioma. Using sophisticated mouse genetic models, I demonstrated that sensory-driven neural activity, such as olfaction, regulates gliomagenesis via IGF1 signaling, revealing a novel link between normal brain function and cancer development.
 
