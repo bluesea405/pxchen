@@ -1,4 +1,183 @@
-<!-- Mobile Fix CSS -->
-<link rel="stylesheet" href="{{ '/assets/css/mobile-fix.css' | relative_url }}">
+/* ============================================
+   MOBILE MENU & BUTTON FIX
+   Add this to: assets/css/main.scss or create a new file
+   ============================================ */
 
+/* Fix z-index issues that prevent clicking */
+.greedy-nav {
+  position: relative;
+  z-index: 1000;
+}
 
+.greedy-nav__toggle {
+  position: relative;
+  z-index: 1001;
+  pointer-events: auto !important;
+  cursor: pointer;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Make hamburger menu more touch-friendly */
+.greedy-nav__toggle-menu {
+  display: block;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 10px;
+  margin: 0;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Ensure hamburger icon is clickable */
+.navicon,
+.navicon:before,
+.navicon:after {
+  pointer-events: none; /* Prevent icon from blocking clicks */
+}
+
+/* Fix sidebar on mobile */
+.sidebar {
+  z-index: 999;
+  pointer-events: auto;
+}
+
+/* Fix author profile links on mobile */
+.author__urls-wrapper {
+  position: relative;
+  z-index: 10;
+  pointer-events: auto;
+}
+
+.author__urls {
+  pointer-events: auto;
+}
+
+.author__urls a,
+.author__urls button {
+  pointer-events: auto !important;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.3);
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+}
+
+/* Fix Follow button specifically */
+.btn,
+.btn--inverse {
+  pointer-events: auto !important;
+  touch-action: manipulation;
+  cursor: pointer;
+  min-height: 44px;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index: 10;
+}
+
+/* Ensure no overlay is blocking clicks */
+.page__content,
+.page__hero,
+.page {
+  position: relative;
+  z-index: 1;
+}
+
+/* Fix for iOS Safari specific issues */
+@supports (-webkit-touch-callout: none) {
+  .greedy-nav__toggle,
+  .author__urls a,
+  .btn {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -webkit-touch-callout: default;
+  }
+}
+
+/* Mobile specific fixes */
+@media (max-width: 768px) {
+  
+  /* Ensure header elements are clickable */
+  .masthead {
+    position: relative;
+    z-index: 1000;
+  }
+  
+  .masthead__inner-wrap {
+    position: relative;
+    z-index: 1001;
+  }
+  
+  /* Make all navigation elements more touch-friendly */
+  .greedy-nav a,
+  .greedy-nav button {
+    min-height: 44px;
+    padding: 12px 16px;
+    touch-action: manipulation;
+  }
+  
+  /* Fix hidden menu */
+  .hidden-links {
+    position: absolute;
+    right: 0;
+    top: 100%;
+    z-index: 1002;
+    background: #fff;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  }
+  
+  .hidden-links.hidden {
+    display: none;
+  }
+  
+  /* Show menu when active */
+  .greedy-nav .hidden-links {
+    display: none;
+  }
+  
+  .greedy-nav .hidden-links.js-hidden {
+    display: none;
+  }
+  
+  /* Sidebar toggle for mobile */
+  .sidebar__right.sticky {
+    display: none;
+  }
+  
+  /* Remove any conflicting styles */
+  * {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
+  }
+}
+
+/* Force hardware acceleration for better performance */
+.greedy-nav__toggle,
+.author__urls-wrapper,
+.sidebar {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+/* Remove any ::before or ::after pseudo-elements that might block clicks */
+.greedy-nav__toggle::before,
+.greedy-nav__toggle::after {
+  pointer-events: none;
+}
+
+/* Ensure touch events work properly */
+body {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Fix for any modal or overlay issues */
+.initial-content,
+.page-wrapper {
+  position: relative;
+  z-index: 1;
+}
