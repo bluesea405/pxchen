@@ -41,3 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* === Fix mobile Follow icons not clickable === */
+.navbar .social-icons a,
+.footer .social-icons a {
+  position: relative;
+  z-index: 30;
+  pointer-events: auto !important;
+  display: inline-block;
+  padding: 8px;
+}
+
+/* 保险措施：防止透明层覆盖 */
+.navbar,
+.footer {
+  pointer-events: auto !important;
+}
