@@ -7,21 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+The word “glia” comes from the Greek for “glue,” reflecting their traditional role as the brain’s support cells. However, neuron–glia interactions are now recognized as essential for maintaining neural circuit function and overall brain health. My research seeks to understand ***how bidirectional communication between neurons and glial cells—particularly astrocytes and oligodendrocyte lineage cells—shapes both physiological and pathological brain states***.
 
-# About Me
-I am a **Postdoctoral Scholar** in the **Khakh Lab at UCLA**, where I study how astrocyte morphology shapes neuronal communication and cortical network activity.  
-My research combines *in vivo two-photon calcium imaging*, *molecular manipulation*, and *computational analysis* to understand glial function in the healthy and diseased brain.
+During my Ph.D. under Prof. Chong Liu at Zhejiang University, I focused on interactions between neurons and oligodendrocyte lineage cells. I discovered that neuronal activity can drive the progression of oligodendrocyte lineage cell-derived high-grade glioma. Using sophisticated mouse genetic models, I demonstrated that sensory-driven neural activity, such as olfaction, regulates gliomagenesis via IGF1 signaling, revealing a novel link between normal brain function and cancer development.
+
+As a postdoctoral researcher in Prof. Baljit S. Khakh’s lab at UCLA, I investigate how the intricate astrocyte morphology contributes to their function and regulates local circuits *in vivo*. I developed astrocyte-specific genetic tools to manipulate their structure and acquired expertise in two-photon imaging of awake, behaving mice. Using these approaches, I aim to reveal fundamental principles of how astrocytes shape neural circuits and support brain function.
 
 ---
-
 
 # Research Interests
-- Astrocyte structure–function relationships  
-- Two-photon imaging in awake, behaving mice  
-- Glia-neuron signaling and cortical dynamics  
-- Quantitative analysis of calcium imaging data
+- Developing and implementing novel tools to study glial cells
+- Investigating glia–neuron interactions in physiological states
+- Exploring glia–neuron interactions in disease states and identifying potential therapeutic targets
 
----
-
-# Contributions to Science
-**Sensory experience regulates glioma development** Animals constantly receive various sensory stimuli, such as odors, sounds, light, and touch, from the surrounding environment. These sensory inputs are essential for animals to search for food and avoid predators, but they also affect their physiological status and may cause diseases such as cancer. Malignant gliomas, the most lethal form of brain tumor, are known to intimately communicate with neurons at the cellular level. However, it remains unclear whether external sensory stimuli can directly affect the development of malignant glioma under normal living conditions. At the beginning of my Ph.D. training, I characterized an autochthonous mouse model that recapitulates adult gliomagenesis originating in oligodendrocyte precursor cells (OPCs) (Tian et al., Adv Sci, 2020) and found that gliomas preferentially emerge in the olfactory bulb, the first relay of brain olfactory circuitry, leading to an interesting question that whether olfactory sensory experience regulates gliomagenesis. To answer this important question, I established the Omp-hM3Dq and Omp-hM4Di mouse genetic models that can activate and inhibit neuronal activities of olfactory receptor neurons (ORNs) separately, demonstrating that manipulating ORN activities regulate the development of glioma. I found that olfaction excites mitral and tufted (M/T) cells, which receive sensory information from ORNs and release insulin-like growth factor 1 (IGF1) in an activity-dependent manner. To unambiguously demonstrate the role of M/T cell-derived IGF1 in gliomagenesis, I established a two-recombinase mouse genetic model that can orthogonally knock out cell-specific genes and mimic gliomagenesis in the same model, demonstrating that M/T specific Igf1 can regulate gliomagenesis (Chen et al., Nature, 2022). Using sophisticated mouse genetic models, my work established a direct link between sensory experience and gliomagenesis through their corresponding sensory neuronal circuits.
