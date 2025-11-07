@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Pengxiang Chen"
+title                    : "Pengxiang Chen, PhD"
 title_separator          : "-"
 name                     : &name "Pengxiang Chen"
 description              : &description "Pengxiang Chen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://bluesea405.github.io/pxchen # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://pengxiangchen.com" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://bluesea405.github.io/pxchen"
@@ -71,7 +71,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : @pengxiangchen8
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
