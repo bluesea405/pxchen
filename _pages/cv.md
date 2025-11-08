@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Email: pengxiangchen@mednet.ucla.edu
 
 Education
 ======
